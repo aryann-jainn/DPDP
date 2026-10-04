@@ -42,8 +42,13 @@ DISCLAIMER = (
 # ── Load requirements ─────────────────────────────────────────────────────────
 @st.cache_data
 def load_requirements():
-    path = os.path.join(os.path.dirname(__file__), "data", "requirements.json")
-    with open(path, encoding="utf-8") as f:
+    import os
+    from pathlib import Path
+    
+    BASE_DIR = Path(__file__).resolve().parent
+    file_path = BASE_DIR / "requirements.json"
+    
+    with open(file_path, encoding="utf-8") as f:
         return json.load(f)
 
 # ── PDF extraction ────────────────────────────────────────────────────────────
