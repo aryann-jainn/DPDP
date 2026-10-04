@@ -1,0 +1,82 @@
+[
+  {
+    "id": "R01",
+    "title": "Notice to Data Principals",
+    "category": "Notice & Transparency",
+    "legal_source": "DPDP Act 2023, Section 5",
+    "description": "The Data Fiduciary must provide a clear and accessible notice to the Data Principal before or at the time of collecting personal data, describing what data is collected, the purpose, and how it is used.",
+    "assessment_question": "Does the privacy policy provide a clear notice describing personal data collection, purpose, and usage?"
+  },
+  {
+    "id": "R02",
+    "title": "Purpose of Processing Personal Data",
+    "category": "Purpose Limitation",
+    "legal_source": "DPDP Act 2023, Section 6 & Section 7",
+    "description": "Personal data must be processed only for specified, clear, and lawful purposes. The policy should clearly state the purposes for which personal data is collected and used.",
+    "assessment_question": "Does the policy clearly state the specific purposes for which personal data is collected and processed?"
+  },
+  {
+    "id": "R03",
+    "title": "Types of Personal Data Collected",
+    "category": "Data Transparency",
+    "legal_source": "DPDP Act 2023, Section 5(1)(a)",
+    "description": "The policy should identify the categories or types of personal data that are collected from Data Principals.",
+    "assessment_question": "Does the policy identify what categories of personal data are collected?"
+  },
+  {
+    "id": "R04",
+    "title": "Consent Mechanism",
+    "category": "Consent",
+    "legal_source": "DPDP Act 2023, Section 6",
+    "description": "Processing of personal data must be based on free, specific, informed, unconditional, and unambiguous consent. The policy should describe how consent is obtained and how it can be withdrawn.",
+    "assessment_question": "Does the policy describe how consent is obtained and how a Data Principal can withdraw consent?"
+  },
+  {
+    "id": "R05",
+    "title": "Data Principal Rights",
+    "category": "Rights of Data Principals",
+    "legal_source": "DPDP Act 2023, Sections 11\u201314",
+    "description": "The policy should inform Data Principals of their rights, including: right to access information, right to correction and erasure, right to grievance redressal, and right to nominate.",
+    "assessment_question": "Does the policy inform Data Principals about their rights under the DPDP Act?"
+  },
+  {
+    "id": "R06",
+    "title": "Data Retention and Erasure",
+    "category": "Data Retention",
+    "legal_source": "DPDP Act 2023, Section 8(7)",
+    "description": "Personal data must not be retained for longer than necessary for the specified purpose. The policy should describe how long data is retained and when/how it is erased or de-identified.",
+    "assessment_question": "Does the policy describe the data retention period and the process for erasure or de-identification?"
+  },
+  {
+    "id": "R07",
+    "title": "Security Safeguards",
+    "category": "Data Security",
+    "legal_source": "DPDP Act 2023, Section 8(5)",
+    "description": "The Data Fiduciary must implement reasonable security safeguards to protect personal data from breaches. The policy should describe what security measures are in place.",
+    "assessment_question": "Does the policy describe the security measures implemented to protect personal data?"
+  },
+  {
+    "id": "R08",
+    "title": "Data Sharing and Third-Party Disclosure",
+    "category": "Data Sharing",
+    "legal_source": "DPDP Act 2023, Section 8(2) & Section 9",
+    "description": "The policy should disclose whether personal data is shared with third parties, for what purposes, and what safeguards apply. Data Processors must be engaged through valid contracts.",
+    "assessment_question": "Does the policy disclose data sharing with third parties and the conditions under which data is shared?"
+  },
+  {
+    "id": "R09",
+    "title": "Grievance Redressal Mechanism",
+    "category": "Grievance Handling",
+    "legal_source": "DPDP Act 2023, Section 13",
+    "description": "The Data Fiduciary must provide an effective grievance redressal mechanism. The policy should provide clear contact details and describe the process for Data Principals to raise complaints.",
+    "assessment_question": "Does the policy describe a grievance redressal mechanism with contact information?"
+  },
+  {
+    "id": "R10",
+    "title": "Processing of Children\u2019s Personal Data",
+    "category": "Children\u2019s Data",
+    "legal_source": "DPDP Act 2023, Section 9",
+    "description": "Before processing a child\u2019s personal data (persons under 18), the Data Fiduciary must obtain verifiable parental consent. The policy should address how children\u2019s data is handled.",
+    "assessment_question": "Does the policy address the collection or processing of personal data belonging to children?"
+  }
+]
